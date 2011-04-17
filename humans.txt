@@ -1,0 +1,43 @@
+/* G5 Framework */
+	
+	Greg Babula
+	Front-End Developer
+
+	http://www.gnu.org/licenses/gpl.html
+	http://www.opensource.org/licenses/mit-license.php
+
+	http://G5Framework.com
+	http://GregBabula.info/framework.php
+
+
+/* TEAM */
+	
+	Greg Babula
+	Web Designer & Front-End Developer
+
+
+/* CREDITS */
+
+	Modernizr 1.6
+	Faruk Ates, Paul Irish and Alex Sexton
+
+	Reset Reloaded + HTML5 Baseline
+	Eric Meyer
+	
+	CSS3 Buttons
+	Nick La
+
+	CSS3 PIE
+	Jason Johnston
+
+	Tipsy Tooltips
+	Jason Frame
+
+	Easy Grid
+	Alen Grakalic
+	
+	Reveal Modal
+	ZURB Team
+
+	Orbit Slider
+	ZURB Team
