@@ -1,0 +1,17 @@
+About The framework : 
+
+G5 Framework started as a personal project. In an attempt to speed up workflow, reuse the best coding practices & similar coding techniques, the framework serves as a starter file for new websites.
+
+Being an active member of the web design community, this framework is a result of a ton of reading and research. For over a year the framework was constantly changed, simplified, and updated with current best practices. The framework is very lightweight and only includes what I believe are the essentials.
+
+Free for personal & commercial use as long as humans.txt remains unchanged & in the index head. Don't worry, you can add your team information in there also.
+
+
+About the LESS version :
+
+The point of this fork is to make the framework LESS-ready, most of the classes will become mixins with parameters to make them easier to use and re-use and avoid meaningless html classes.
+
+
+More Information :
+
+http://gregbabula.info/framework.php
